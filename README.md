@@ -1,5 +1,6 @@
 # MCAN
-Multimodal Fusion with Co-Attention Networks for Fake news Detection
+[Multimodal Fusion with Co-Attention Networks for Fake news Detection](https://aclanthology.org/2021.findings-acl.226.pdf)
+
 ## Main Idea
 One of the unique challenges for multimodal fake news detection on social media is how to fuse multimodal features. When reading news with image, people often observe image first and then read text. This process may be repeated several times, continuously fusing image and text information. Inspired by that, the MCAN is designed to learn inter-dependencies among all modalities to effectively fuse them, improving the performance of fake news detection.
 ## Architecture
