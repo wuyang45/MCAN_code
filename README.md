@@ -49,3 +49,12 @@ We train our model on Python 3.8.1. And your environment should have some packag
 - [ ] adabelief_pytorch 0.1.0
 - [ ] ray 1.0.1
 - [ ] tabulate 0.8.7
+
+If you are insterested in this work, and want to use the codes or results in this repository, please star this repository and cite by:
+@inproceedings{wu2021multimodal,
+  title={Multimodal fusion with co-attention networks for fake news detection},
+  author={Wu, Yang and Zhan, Pengwei and Zhang, Yunjian and Wang, Liming and Xu, Zhen},
+  booktitle={Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021},
+  pages={2560--2569},
+  year={2021}
+}
